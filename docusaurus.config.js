@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'MSG Docs',
+  title: 'MSG Gaang',
   tagline: 'We dont forget to pet',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -56,6 +56,12 @@ const config = {
             label: 'Docs',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
+          {
+            type: 'doc',
+            docId: 'links',
+            position: 'left',
+            label: 'Links',
+          },
         ],
       },
       footer: {
