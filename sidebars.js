@@ -22,6 +22,7 @@ const sidebars = {
       items: [
         'intro',
         'join',
+        'links',
       ],
     },
   ],
