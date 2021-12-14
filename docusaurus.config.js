@@ -71,8 +71,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Intro',
                 to: '/docs/intro',
+              },
+              {
+                label: 'How to join',
+                to: '/docs/join',
+              },
+              {
+                label: 'Links',
+                to: '/docs/links',
               },
             ],
           },
