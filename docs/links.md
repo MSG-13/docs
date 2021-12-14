@@ -4,6 +4,9 @@ sidebar_position: 3
 
 # Links
 
+#### Official Aavegotchi Wiki
+https://wiki.aavegotchi.com/
+
 ####	 Github
 https://github.com/MSG-13
 
