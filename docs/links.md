@@ -4,6 +4,9 @@ sidebar_position: 3
 
 # Links
 
+#### MSG DAO Forum
+https://forum.daohaus.club/c/msg/175
+
 #### Official Aavegotchi Wiki
 https://wiki.aavegotchi.com/
 
