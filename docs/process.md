@@ -14,6 +14,16 @@ This is the [DAO Gnosis Safe.](https://gnosis-safe.io/app/matic:0x8c3fB88A4B91A2
 
 ## 2. Create membership proposal
 
-- Go to the [https://app.daohaus.club/dao/0x89/0xec57f2996106cb46823ae9a23a41a87234f6e85e](DAO Homepage)
-- Create a membership proposal and request the correct amount of shares and loot
-- ADD SCREENSHOTS AND MORE DETAILS HERE
+- Go to the [DAO Proposals Page](https://app.daohaus.club/dao/0x89/0xb60374ae550f6ab6d18e7c9cfafa04ff310235c1/proposals)
+- Create a new membership proposal under "The Classics"  and request the correct amount of shares and loot
+![Example banner](../static/img/proposal-button.png)
+- Use the title "Member proposal for (your discord name)"
+- In the description include the link to the transaction of your GHST and/or Land tribute
+- Request exactly 1 share
+- To request Loot click the "More +" button
+![Example banner](../static/img/loot-requested-menu.png)
+- Click "Loot Requested"
+- Include the Loot amount in the new "Loot Requested" box
+![Example banner](../static/img/final-proposal-form.png)
+- Leave the Tribute Offered box empty
+- Click submit
