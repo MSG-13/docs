@@ -36,9 +36,9 @@ https://discord.gg/Kr6MhFacRu
 
 #### Discord QR Codes
 
-![DiscordQR](https://i.imgur.com/Id3Do7o.png)
+![DiscordQR](../static/img/qr-2.png)
 
-![DiscordQR](https://i.imgur.com/MkMdq20.png)
+![DiscordQR](../static/img/qr-1.png)
 
-![DiscordQR](https://i.imgur.com/r9oa3eE.png)
+![DiscordQR](../static/img/qr-3.png)
 
