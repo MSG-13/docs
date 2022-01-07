@@ -33,7 +33,7 @@ export default function Home() {
       description="We don't forget to pet.">
       <HomepageHeader />
       <main>
-        {/* <HomepageFeatures /> */}
+        <HomepageFeatures />
       </main>
     </Layout>
   );
