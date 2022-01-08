@@ -23,6 +23,7 @@ const sidebars = {
         'intro',
         'join',
         'process',
+        'how-to-act',
         'links',
       ],
     },
