@@ -4,27 +4,11 @@ sidebar_position: 2
 
 # Join MSG Gaang
 
-## How to join
+## How to join with GHST Tribute
 
-You have two options...
+50 GHST = 1 Share
 
-### GHST Tribute
-
-350 GHST = 1 Share
-
-Additional tributes in increments of 350 GHST will be credited with LOOT.
-
-### Land Parcel Tribute
-
-- Humble = 1 Share
-- Reasonable = 1 Share + 1 Loot
-- Spacious = 1 Share + 1 Loot
-
-#### Tribute Adjustments
-
-Tribute amount changes will be triggered via DAO vote.
-
-We are currently discussing adjustments in [this forum thread.](https://forum.daohaus.club/t/adjust-the-land-parcel-ghst-share-ratio-msg/9532)
+Additional tributes in increments of 50 GHST will be credited with LOOT.
 
 ### Why Shares and Loot?
 
